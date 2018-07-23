@@ -370,7 +370,6 @@ spec:
 ---
 
 class: middle
-background-image: url(http://www.hotel-r.net/im/hotel/az/hotel-service-4.jpg)
 layout: true
 
 ---
@@ -599,7 +598,7 @@ volumes:
 ---
 
 class: middle
-background-image: url(http://blog.marketo.com/wp-content/uploads/2013/09/telling-secrets-big-e1379620235254.jpg)
+background-image: url(https://blog.marketo.com/content/uploads/2013/09/telling-secrets-big-e1379620235254.jpg)
 layout: true
 
 ---
