@@ -661,11 +661,13 @@ layout: true
 
 * `DaemonSet`
 * `HorizontalPodAutoscaler`
+* `CronJob`
 * `Job`
+* `Ingress`
 * `NetworkPolicy`
 * `PersistentVolume`
 * `PersistentVolumeClaim`
-* `PetSet`
+* `StatefulSets`
 * `ServiceAccount`
 * `ThirdPartyResource`
 * ...
